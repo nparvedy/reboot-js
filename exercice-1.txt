@@ -1,0 +1,7 @@
+0 = int
+true = boolean
+2 - 1.2 = number
+'hello' = string
+'bonjour' + 4 = string
+{ a: 0.4 } = object
+[ 'a', 'b', 'c' ] = array

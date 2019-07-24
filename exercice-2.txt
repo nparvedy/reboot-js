@@ -1,0 +1,14 @@
+monNombre = 4;
+maChaine = 'bonjour ! :-)';
+monBooleen = false;
+sansValeur = "";
+
+console.log(monNombre === 4);
+console.log(maChaine === 'bonjour ! :-)');
+console.log(monBooleen === false);
+console.log(sansValeur === undefined);
+
+true 
+true 
+true 
+false
